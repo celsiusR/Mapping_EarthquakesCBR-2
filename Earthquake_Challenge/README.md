@@ -8,12 +8,12 @@ The application can be run from a web server. For a local verification and devel
 
 
 
-| ![img](/images/top-light.jpg) |
+| ![img](images/top-light.jpg) |
 | ------------------------------------------------------------ |
 |                                                              |
-| ![img](/images/satellite.jpg) |
+| ![img](images/satellite.jpg) |
 |                                                              |
-| ![img](/images/dark.jpg) |
+| ![img](images/dark.jpg) |
 
 
 
